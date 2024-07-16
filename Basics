@@ -1,0 +1,3 @@
+   - `ls`: List directory contents.
+   - `cd <directory>`: Change the current directory.
+   - `pwd`: Print working directory.
